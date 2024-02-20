@@ -24,3 +24,4 @@ function calculatetotalprice($items)
 $items=array(array("item"=>"shirt","price"=>1500),("item"=>"shirt","price"=>1500),("item"=>"shirt","price"=>1500));
 $totalprice=calculatetotalprice($item);
 echo "total price is Rs.".$totalprice;
+?>
